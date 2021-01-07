@@ -1,0 +1,9 @@
+hr:after { 
+    background: url('img/hr-img.png');
+    content: "";
+    display: block;
+    height: 18px; /* height of the ornament */
+    position: relative;
+    border: 0;
+    color: #d7d7d7;
+}
